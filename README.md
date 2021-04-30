@@ -1,2 +1,1 @@
-# rsschool-cv
-ios-course
+https://stagnu-m/rsschool-cv/cv 
