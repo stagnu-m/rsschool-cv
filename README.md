@@ -1,1 +1,1 @@
-https://stagnu-m/rsschool-cv/cv 
+https://stagnu-m.github.io/rsschool-cv/cv 
